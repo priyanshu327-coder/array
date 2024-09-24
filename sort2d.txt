@@ -1,0 +1,16 @@
+class sort2d{
+public static int sort(int x[]){
+\
+
+
+
+
+
+
+
+
+public static void main(String ...s){
+int arr[]={6,10,2,3,5};
+sort(arr);
+}
+}
